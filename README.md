@@ -1,1 +1,1 @@
-# you don't know anything about web development lol
+you don't know anything about web development lol
