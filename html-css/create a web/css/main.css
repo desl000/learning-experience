@@ -1,0 +1,93 @@
+.row{
+	width:100%;
+	display:flex;
+}
+
+.col-1{width :8.33%;}
+.col-2{width :16.66%;}
+.col-3{width :25%;}
+.col-4{width :33.33%;}
+.col-5{width :41.66%;}
+.col-6{width :50%;}
+.col-7{width :58.33%;}
+.col-8{width :66.67%;}
+.col-9{width :75%;}
+.col-10{width :83.33%;}
+.col-11{width :91.67%;}
+.col-12{width :100%;}
+
+.container{
+	margin:20px 45px;
+}
+
+.catagory{
+	margin:38px auto;
+}
+
+.col-8{
+	margin-right: 54px;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin:0 auto;
+}
+
+.menu{
+	display: block;
+	max-width: 35%;
+	height: 100%;
+	padding: 36px 18px 18px 0;
+}
+
+.case{
+	display: block;
+	max-width: 50%;
+	height: 100%;
+	text-align: center ;
+	padding: 36px 0 18px 18px;
+}
+
+.side{
+    display: block;
+	width: 40%;
+	height: auto;
+}
+ 
+.sidelink{
+	display:block;
+	width: 50%;
+	height: auto;
+	margin: 0 20px 20px;
+	font-size:15px;
+}
+
+.featureinto{
+	display: 
+	width:40%
+	height:auto;
+}
+.feature{
+	display: block;
+	width:100%;
+	height:auto;
+}
+
+p{
+	text-align: left;
+}
+
+ul{
+	width: 70%;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+li{
+	float: left;
+	text-align: center;
+	list-style: none;
+	margin: 0 20px 20px;
+}
