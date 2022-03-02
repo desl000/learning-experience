@@ -1,1 +1,1 @@
-# nothin about web development
+# nothing about web development
